@@ -1,7 +1,3 @@
-<!-- This is the markdown template for the final project of the Building AI course,
-created by Reaktor Innovations and the University of Helsinki.
-Copy the template, paste it into your GitHub README, and edit it! -->
-
 # EcoClasifica
 
 Final project for the Building AI course
